@@ -19,14 +19,15 @@ A reel can stop only in fixed positions. A stopped reel has either:
 
 _Pay-table_
 Pay-table must indicate winning combinations and payouts as: 3 CHERRY symbols on top line | 2000
-3 CHERRY symbols on center line | 1000
-3 CHERRY symbols on bottom line | 4000
-3 7 symbols on any line | 150
-Any combination of CHERRY and 7 on any line | 75
-3 3xBAR symbols on any line | 50
-3 2xBAR symbols on any line | 20
-3 BAR symbols on any line | 10
-Combination of any BAR symbols on any line | 5
+* 3 CHERRY symbols on center line | 1000
+* 3 CHERRY symbols on bottom line | 4000
+* 3 7 symbols on any line | 150
+* Any combination of CHERRY and 7 on any line | 75
+* 3 3xBAR symbols on any line | 50
+* 3 2xBAR symbols on any line | 20
+* 3 BAR symbols on any line | 10
+* Combination of any BAR symbols on any line | 5
+
 When a particular win happens the winning sum on pay-table must start blinking.
 Also, the win-line on reels must be marked (for example a red line).
 
