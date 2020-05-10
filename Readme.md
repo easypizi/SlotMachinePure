@@ -1,8 +1,8 @@
 Create a slot machine simulation web-app running under Google Chrome.
 
-_Detailed description_
-Slot machine page has following interface elements: 1. reels
-
+**Detailed description**.
+Slot machine page has following interface elements: 
+1. reels
 2. pay-table
 3. balance indicator (text-box)
 4. SPIN button. 5. Debug area
