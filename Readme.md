@@ -68,5 +68,6 @@ HARDCORE MODE:
 5. Infinite recurse.
 6. Canvas use or any external library.
 7. No frameworks, Vanilla js only.
+8. ES6 > (f.e. use generator functions if u need or spread and etc).
 
 ---
