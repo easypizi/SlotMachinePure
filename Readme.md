@@ -17,7 +17,7 @@ There are horizontal win-lines on visible part of reel: top, center, bottom.
 A reel can stop only in fixed positions. A stopped reel has either:
 
 1. a symbol on center win line
-2. symbols on top and bottom win-line positions
+2. symbols on top and bottom win-line positions.
    Note, that if center win-line has a symbol, bottom/top parts of peer symbols must be still visible.
 
 **Pay-table**
