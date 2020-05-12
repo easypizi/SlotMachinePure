@@ -68,7 +68,7 @@ HARDCORE MODE:
 
 1. use as less code as you can, try to build abstractions.
 2. OOP patterns high priority.
-3. 5 reels and cross-diagonal combinations - /\, X, \/.
+3. 5 reels and cross-diagonal combinations - //\, X, \//.
 4. Animations effects on the win.
 5. Infinite recurse.
 6. Canvas use or any external library.
