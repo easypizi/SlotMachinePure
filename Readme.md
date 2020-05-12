@@ -25,7 +25,7 @@ Pay-table must indicate winning combinations and payouts as: 3 CHERRY symbols on
 
 - 3 CHERRY symbols on center line | 1000
 - 3 CHERRY symbols on bottom line | 4000
-- 3 7 symbols on any line | 150
+- 3 "7" symbols on any line | 150
 - Any combination of CHERRY and 7 on any line | 75
 - 3 3xBAR symbols on any line | 50
 - 3 2xBAR symbols on any line | 20
